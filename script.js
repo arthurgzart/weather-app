@@ -37,6 +37,5 @@ const weatherIcon = document.querySelector(".weather-icon");
             }
 
             document.querySelector(".weather").style.display = "block";
-            }
-        
+        }     
     } 
